@@ -21,6 +21,7 @@ body {
 }
 
 #lyrics {
+  top: 30px;
   font-size: 28px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   color: white;
