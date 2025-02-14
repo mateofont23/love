@@ -98,19 +98,19 @@ position:relative;
         text-align: center;
     }
     .description{
-        font-size: 2rem;
+        font-size: 10px;
     }
     
     .button a{
-        font-size: 1rem;
+        font-size: 10px;
     }
 }
 
 body { background-color: black; }
 
 .collage {
-    width: 500px;
-		margin: 100px auto;
+    width: 400px;
+		margin: 100px ;
     position: relative;
 }
 
